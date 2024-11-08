@@ -1,0 +1,21 @@
+[
+	{
+		"short": "me/my",
+		"full": "I/me/my/mine/myself"
+	},{
+		"short": "you/your",
+		"full": "you/you/your/yours/yourself"
+	},{
+		"short": "he/him",
+		"full": "he/him/his/his/himself"
+	},{
+		"short": "she/her",
+		"full": "she/her/her/hers/herself"
+	},{
+		"short": "they/them",
+		"full": "they/them/their/theirs/themself"
+	},{
+		"short": "it/its",
+		"full": "it/it/its/its/itself"
+	}
+]

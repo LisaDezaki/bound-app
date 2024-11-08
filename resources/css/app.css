@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+	--color-brand-orange: #FF9358;
+	--color-brand-pink: #FF4F8F;
+	--color-brand-purple: #4F4AB3;
+} */
+
+/* .bg-brand-orange { 		background-color: var(--color-brand-orange); }
+.bg-brand-pink { 		background-color: var(--color-brand-pink); }
+.bg-brand-purple {		background-color: var(--color-brand-purple); }
+
+.border-brand-orange { 	border-color: var(--color-brand-orange); }
+.border-brand-pink { 	border-color: var(--color-brand-pink); }
+.border-brand-purple { 	border-color: var(--color-brand-purple); }
+
+.outline-brand-orange {	outline-color: var(--color-brand-orange); }
+.outline-brand-pink {	outline-color: var(--color-brand-pink); }
+.outline-brand-purple {	outline-color: var(--color-brand-purple); }
+
+.ring-brand-orange {	--tw-ring-color: var(--color-brand-orange); }
+.ring-brand-pink {		--tw-ring-color: var(--color-brand-pink); }
+.ring-brand-purple {	--tw-ring-color: var(--color-brand-purple); }
+
+.text-brand-orange { 	color: var(--color-brand-orange); }
+.text-brand-pink { 		color: var(--color-brand-pink); }
+.text-brand-purple { 	color: var(--color-brand-purple); } */
